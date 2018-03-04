@@ -22,7 +22,7 @@ The goal of this project is to define a process to differentiate between a datas
 
 >Then I trained the model using the above mentioned classifiers
 
->I get the accuracy of 97.96%
+>I get the accuracy of 98.8%
 
 ### Tool
  - Pycharm
