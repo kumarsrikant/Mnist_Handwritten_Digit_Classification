@@ -5,10 +5,10 @@ The goal of this project is to define a process to differentiate between a datas
 
 | Classification Algorithm        | Accuracy      | precision Score  | Recall Score |
 | ------------------------------- |:-------------:| ----------------:| ------------:|
-| stochastic gradient descent     | 0.8793        |0.8682            |0.8607        |
+| stochastic gradient descent     | 0.8793        |0.8682            | 0.8607       |
 | Random Forest                   | 0.9507        |0.9413            | 0.9411       |
-| Linear SVM                      | 0.8571        |   0.8397         |   0.8376     |
-| KNN                             |     0.988         |                  |              |
+| Linear SVM                      | 0.8571        |0.8397            | 0.8376       |
+| KNN                             | 0.988         | 0.964            | 0.968        |
 
 
 ## Steps that I followed :
