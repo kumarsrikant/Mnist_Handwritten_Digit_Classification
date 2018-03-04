@@ -52,8 +52,8 @@ conf_mx=confusion_matrix(y_train, y_train_pred)
 print("Confussion matrix:",conf_mx)
 ps=precision_score(y_train, y_train_pred,average="macro")
 print("Precision Score:",ps)
-ps=recall_score(y_train, y_train_pred,average="macro")
-print("Recall Score:",ps)
+rs=recall_score(y_train, y_train_pred,average="macro")
+print("Recall Score:",rs)
 """Here i am showing you the graph of the confussion matrix. more the bright more erroneous it is. 
     so by getting the confussion matrix graph we canlearn from it and we can change the values of 
     classifier or by removing the noise from the images we can get the optimized result"""
@@ -86,8 +86,8 @@ conf_mx=confusion_matrix(y_train, y_train_pred)
 print("Confussion matrix:",conf_mx)
 ps=precision_score(y_train, y_train_pred,average="macro")
 print("Precision Score:",ps)
-ps=recall_score(y_train, y_train_pred,average="macro")
-print("Recall Score:",ps)
+rs=recall_score(y_train, y_train_pred,average="macro")
+print("Recall Score:",rs)
 """Here i am showing you the graph of the confussion matrix. more the bright more erroneous it is. 
     so by getting the confussion matrix graph we canlearn from it and we can change the values of 
     classifier or by removing the noise from the images we can get the optimized result"""
@@ -115,8 +115,8 @@ conf_mx=confusion_matrix(y_train, y_train_pred)
 print("Confussion matrix:",conf_mx)
 ps=precision_score(y_train, y_train_pred,average="macro")
 print("Precision Score:",ps)
-ps=recall_score(y_train, y_train_pred,average="macro")
-print("Recall Score:",ps)
+rs=recall_score(y_train, y_train_pred,average="macro")
+print("Recall Score:",rs)
 """Here i am showing you the graph of the confussion matrix. more the bright more erroneous it is. 
     so by getting the confussion matrix graph we canlearn from it and we can change the values of 
     classifier or by removing the noise from the images we can get the optimized result"""
@@ -141,8 +141,8 @@ conf_mx=confusion_matrix(y_train, y_train_pred)
 print("Confussion matrix:",conf_mx)
 ps=precision_score(y_train, y_train_pred,average="macro")
 print("Precision Score:",ps)
-ps=recall_score(y_train, y_train_pred,average="macro")
-print("Recall Score:",ps)
+rs=recall_score(y_train, y_train_pred,average="macro")
+print("Recall Score:",rs)
 """Here i am showing you the graph of the confussion matrix. more the bright more erroneous it is. 
     so by getting the confussion matrix graph we canlearn from it and we can change the values of 
     classifier or by removing the noise from the images we can get the optimized result"""
